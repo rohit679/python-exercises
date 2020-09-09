@@ -52,18 +52,18 @@ game over. After game over, print the score.
 
 Q. Write a python program to take a string as an input.
 Check the following into the string -
-    - Print True If all charaters are in uppercase or False
-    - Print True If all charaters are in lowercase or False
-    - Convert all characters of the string uppercase & Print it
-    - Convert all characters of the string lowercase & Print it
-    - Concatinate uppercase & lowercase string with "*" & print it
+    * Print True If all charaters are in uppercase or False
+    * Print True If all charaters are in lowercase or False
+    * Convert all characters of the string uppercase & Print it
+    * Convert all characters of the string lowercase & Print it
+    * Concatinate uppercase & lowercase string with "*" & print it
 
 ### Input:
 India is Great
 
 ### Output:
-False
-False
-INDIA IS GREAT
-india is great
-INDIA IS GREAT * india is great
+False<br>
+False<br>
+INDIA IS GREAT<br>
+india is great<br>
+INDIA IS GREAT * india is great<br>
