@@ -51,12 +51,12 @@ game over. After game over, print the score.
 ## String-Manipulation-Problem
 
 Q. Write a python program to take a string as an input.
-Check the following into the string -
-    * Print True If all charaters are in uppercase or False
-    * Print True If all charaters are in lowercase or False
-    * Convert all characters of the string uppercase & Print it
-    * Convert all characters of the string lowercase & Print it
-    * Concatinate uppercase & lowercase string with "*" & print it
+Check the following into the string -<br>
+    * Print True If all charaters are in uppercase or False<br>
+    * Print True If all charaters are in lowercase or False<br>
+    * Convert all characters of the string uppercase & Print it<br>
+    * Convert all characters of the string lowercase & Print it<br>
+    * Concatinate uppercase & lowercase string with "*" & print it<br>
 
 ### Input:
 India is Great
